@@ -1,0 +1,20 @@
+\begin{thebibliography}{1}
+
+\bibitem{image-process-pca}
+M~Mudrová and Aleš Procházka.
+\newblock Principal component analysis in image processing.
+\newblock 05 2018.
+
+\bibitem{fspca}
+A.~Abrams, E.~Feder, and R.~Pless.
+\newblock Exploratory analysis of time-lapse imagery with fast subset pca.
+\newblock In {\em 2011 IEEE Workshop on Applications of Computer Vision
+  (WACV)}, pages 336--343, Jan 2011.
+
+\bibitem{many-outdoor-scenes}
+N.~Jacobs, N.~Roman, and R.~Pless.
+\newblock Consistent temporal variations in many outdoor scenes.
+\newblock In {\em 2007 IEEE Conference on Computer Vision and Pattern
+  Recognition}, pages 1--6, June 2007.
+
+\end{thebibliography}

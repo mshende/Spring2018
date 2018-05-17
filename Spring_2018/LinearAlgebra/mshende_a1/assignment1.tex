@@ -1,0 +1,57 @@
+\documentclass{article}
+\newcommand*{\qed}{\hfill\ensuremath{\blacksquare}}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\title{Computational Linear Algebra, Assignment 1}
+\author{Maya Shende}
+\date{Due: February 15th, 2018}
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}
+	
+	\item Suppose $z_1 = a_1 + ib_1$ and $z_2 = a_2 + ib_2$. 
+	\begin{enumerate}
+		
+		\item Prove $\overline{z_1+z_2} = \overline{z_1} + \overline{z_2}$
+			Proof: 
+			\begin{eqnarray*}
+				\overline{z_1+z_2} &=&\overline{a_1+ib_1 + a_2+ib_2}\\
+				&=& \overline{a_1+a_2+i(b_1+b_2)}\\
+				&=& (a_1+a_2) - i(b_1+b_2)\\
+				&=& (a_1 - ib_1) + (a_2 - ib_2)\\
+				&=& \overline{a_1+ib_1} + \overline{a_2+ib_2}\\
+				&=& \overline{z_1} + \overline{z_2}
+			\end{eqnarray*}
+			 \qed
+		\item Prove $\overline{z_1-z_2} = \overline{z_1} - \overline{z_2}$
+			Proof: 
+			\begin{eqnarray*}
+				\overline{z_1-z_2} &=&\overline{(a_1+ib_1) - (a_2+ib_2)}\\
+				&=& \overline{(a_1-a_2)+i(b_1-b_2)}\\
+				&=& (a_1-a_2) - i(b_1-b_2)\\
+				&=& (a_1 - ib_1) - (a_2 - ib_2)\\
+				&=& \overline{a_1+ib_1} - \overline{a_2+ib_2}\\
+				&=& \overline{z_1} - \overline{z_2}
+			\end{eqnarray*}
+			 \qed
+			 
+		\item Prove $\overline{z_1z_2} = (\overline{z_1} )(\overline{z_2})$
+			Proof: 
+			\begin{eqnarray*}
+				\overline{z_1z_2} &=&\overline{(a_1+ib_1) (a_2+ib_2)}\\
+				&=& \overline{a_1a_2 + ia_1b_2 + ia_2b_1 - b_1b_2)}\\
+				&=& \overline{((a_1a_2 - b_1b_2) + i(a_1b_2+a_2b_1))}\\
+				&=& (a_1a_2 - b_1b_2) - i(a_1b_2+a_2b_1) \\
+				&=& a_1a_2-b_1b_2-ia_1b_2-ia_2b_1\\
+				&=& (a_1-ib_1)(a_2-ib_2)\\
+				&=& (\overline{z_1})(\overline{z_2})
+			\end{eqnarray*}
+			 \qed
+
+	\end{enumerate}
+\end{enumerate}
+
+\end{document}

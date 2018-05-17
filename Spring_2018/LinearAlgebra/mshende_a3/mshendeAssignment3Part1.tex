@@ -1,0 +1,24 @@
+\documentclass{article}
+\newcommand*{\qed}{\hfill\ensuremath{\blacksquare}}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\graphicspath{{.}}
+
+\title{Computational Linear Algebra, Assignment 2, Part I}
+\author{Maya Shende}
+\date{Due: March 7th, 2018}
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}
+
+\item 
+	\item We can conclude that the nullspace($A$) = nullspace($A^TA$) by proposition 8.5. We can further conclude that the dim(nullspace($A$)) = dim(nullspace($A^TA$)) by Theorem 8.3. \qed
+	
+	\item Suppose A is an $m \times n$ matrix with rank r. By Theorem 8.3, we know dim(nullspace($A$)) = n-r. We also know that $A^TA$ is an $n \times n$ matrix. By proposition 8.5, nullspace(A) = nullspace($A^TA$)), and by Theorem 8.3, dim(nullspace($A$))=dim(nullspace($A^TA$))=n-r. Now, since both $A$ and $A^TA$ have $n$ columns, we can conclude that $A^TA$ also has rank r. Thus, rank($A$) = rank($A^TA$). \qed
+
+\end{enumerate}
+
+\end{document}

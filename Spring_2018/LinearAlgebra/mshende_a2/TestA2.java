@@ -1,0 +1,24 @@
+import edu.gwu.lintool.*;
+import java.text.*;
+import java.util.*;
+import java.io.*;
+
+public class TestA2 {
+
+    public static void main (String[] argv)
+    {
+	MshendeLinTool lin = new MshendeLinTool ();
+	MshendeLinTool newLin = (MshendeLinTool) lin;
+// 	Test complex vector operations.
+//	LinTest.testComplexVectors (lin);
+
+	// REPLACE the line below with your tool.
+
+// 	LinTest.testREF (lin);
+ 	LinTest.testRREF (lin);
+//  	LinTest.testSolveFromREF (lin);
+//  	LinTest.testSolveFromRREF (lin);
+// 	LinTest.testInverse (lin);
+    }
+
+}

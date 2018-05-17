@@ -1,0 +1,426 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.5.23)  11 APR 2018 14:56
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**module9exercises.tex
+(./module9exercises.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(./module9exercises.aux)
+\openout1 = `module9exercises.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+
+(/usr/local/texlive/2017/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen115
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks21
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 13.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 13.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 25--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
+
+ []
+
+<exercise5_k3.png, id=1, 599.23875pt x 480.79625pt>
+File: exercise5_k3.png Graphic file (type png)
+ <use exercise5_k3.png>
+Package pdftex.def Info: exercise5_k3.png used on input line 45.
+(pdftex.def)             Requested size: 179.77301pt x 144.23997pt.
+
+<exercise5_k5.png, id=3, 601.24625pt x 478.78876pt>
+File: exercise5_k5.png Graphic file (type png)
+ <use exercise5_k5.png>
+Package pdftex.def Info: exercise5_k5.png used on input line 47.
+(pdftex.def)             Requested size: 180.37526pt x 143.63773pt.
+
+<exercise5_k7.png, id=4, 601.24625pt x 480.79625pt>
+File: exercise5_k7.png Graphic file (type png)
+ <use exercise5_k7.png>
+Package pdftex.def Info: exercise5_k7.png used on input line 49.
+(pdftex.def)             Requested size: 180.37526pt x 144.23997pt.
+
+<exercise5_k9.png, id=5, 600.2425pt x 479.7925pt>
+File: exercise5_k9.png Graphic file (type png)
+ <use exercise5_k9.png>
+Package pdftex.def Info: exercise5_k9.png used on input line 51.
+(pdftex.def)             Requested size: 180.07413pt x 143.93884pt.
+
+<exercise5_k11.png, id=6, 602.25pt x 480.79625pt>
+File: exercise5_k11.png Graphic file (type png)
+ <use exercise5_k11.png>
+Package pdftex.def Info: exercise5_k11.png used on input line 53.
+(pdftex.def)             Requested size: 180.67639pt x 144.23997pt.
+
+[1
+
+{/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+[2 <./exercise5_k3.png> <./exercise5_k5.png> <./exercise5_k7.png>]
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 76.
+
+[3 <./exercise5_k9.png> <./exercise5_k11.png>] [4]
+<bernstein_1.png, id=37, 604.2575pt x 482.80376pt>
+File: bernstein_1.png Graphic file (type png)
+ <use bernstein_1.png>
+Package pdftex.def Info: bernstein_1.png used on input line 158.
+(pdftex.def)             Requested size: 241.69872pt x 193.11807pt.
+
+<bernstein_2.png, id=38, 605.26125pt x 481.8pt>
+File: bernstein_2.png Graphic file (type png)
+ <use bernstein_2.png>
+Package pdftex.def Info: bernstein_2.png used on input line 162.
+(pdftex.def)             Requested size: 181.57976pt x 144.5411pt.
+
+<bernstein_3.png, id=39, 604.2575pt x 481.8pt>
+File: bernstein_3.png Graphic file (type png)
+ <use bernstein_3.png>
+Package pdftex.def Info: bernstein_3.png used on input line 163.
+(pdftex.def)             Requested size: 181.27864pt x 144.5411pt.
+
+Overfull \hbox (45.08064pt too wide) in paragraph at lines 162--164
+[][] [] 
+ []
+
+[5 <./bernstein_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 184--187
+
+ []
+
+[6 <./bernstein_2.png> <./bernstein_3.png>]
+<exercise21.png, id=50, 520.94624pt x 612.2875pt>
+File: exercise21.png Graphic file (type png)
+ <use exercise21.png>
+Package pdftex.def Info: exercise21.png used on input line 217.
+(pdftex.def)             Requested size: 208.3748pt x 244.91066pt.
+
+<exercise22.png, id=51, 520.94624pt x 612.2875pt>
+File: exercise22.png Graphic file (type png)
+ <use exercise22.png>
+Package pdftex.def Info: exercise22.png used on input line 221.
+(pdftex.def)             Requested size: 208.3748pt x 244.91066pt.
+ [7 <./exercise21.png>]
+<exercise23_with_rotation.png, id=57, 520.94624pt x 611.28375pt>
+File: exercise23_with_rotation.png Graphic file (type png)
+
+<use exercise23_with_rotation.png>
+Package pdftex.def Info: exercise23_with_rotation.png used on input line 225.
+(pdftex.def)             Requested size: 156.28508pt x 183.38654pt.
+
+<exercise23_without_rotation.png, id=58, 518.93875pt x 587.19376pt>
+File: exercise23_without_rotation.png Graphic file (type png)
+
+<use exercise23_without_rotation.png>
+Package pdftex.def Info: exercise23_without_rotation.png used on input line 227
+.
+(pdftex.def)             Requested size: 155.68282pt x 176.15948pt.
+
+<exercise23_with_translation.png, id=59, 521.95pt x 612.2875pt>
+File: exercise23_with_translation.png Graphic file (type png)
+
+<use exercise23_with_translation.png>
+Package pdftex.def Info: exercise23_with_translation.png used on input line 229
+.
+(pdftex.def)             Requested size: 156.5862pt x 183.68767pt.
+ [8 <./exercise22.png> <./exercise23_with_rotation.png>]
+<exercise24_without_transform.png, id=65, 1000.73875pt x 852.18375pt>
+File: exercise24_without_transform.png Graphic file (type png)
+
+<use exercise24_without_transform.png>
+Package pdftex.def Info: exercise24_without_transform.png used on input line 23
+3.
+(pdftex.def)             Requested size: 300.22394pt x 255.65709pt.
+
+<exercise24_with_transform.png, id=66, 998.73125pt x 888.31876pt>
+File: exercise24_with_transform.png Graphic file (type png)
+
+<use exercise24_with_transform.png>
+Package pdftex.def Info: exercise24_with_transform.png used on input line 235.
+(pdftex.def)             Requested size: 299.62169pt x 266.49768pt.
+ [9 <./exercise23_without_rotation.png> <./exercise23_with_translation.png>] [1
+0 <./exercise24_without_transform.png> <./exercise24_with_transform.png>] <exer
+cise26.png, id=77, 518.93875pt x 610.28pt>
+File: exercise26.png Graphic file (type png)
+
+<use exercise26.png>
+Package pdftex.def Info: exercise26.png used on input line 267.
+(pdftex.def)             Requested size: 155.68282pt x 183.0854pt.
+ <exercise27.png, id=78, 520.94624pt x 611.28375pt>
+File: exercise27.png Graphic file (type png)
+
+<use exercise27.png>
+Package pdftex.def Info: exercise27.png used on input line 271.
+(pdftex.def)             Requested size: 156.28508pt x 183.38654pt.
+ [11 <./exercise26.png>]
+<exercise28_4.png, id=83, 522.95375pt x 692.5875pt>
+File: exercise28_4.png Graphic file (type png)
+ <use exercise28_4.png>
+Package pdftex.def Info: exercise28_4.png used on input line 275.
+(pdftex.def)             Requested size: 156.88733pt x 207.77785pt.
+
+<exercise28.png, id=84, 519.9425pt x 690.58pt>
+File: exercise28.png Graphic file (type png)
+ <use exercise28.png>
+Package pdftex.def Info: exercise28.png used on input line 277.
+(pdftex.def)             Requested size: 155.98395pt x 207.1756pt.
+ [12 <./exercise27.png> <./exercise28_4.png>]
+<exercise29.png, id=90, 1000.73875pt x 842.14626pt>
+File: exercise29.png Graphic file (type png)
+ <use exercise29.png>
+Package pdftex.def Info: exercise29.png used on input line 281.
+(pdftex.def)             Requested size: 300.22394pt x 252.64583pt.
+
+Overfull \hbox (21.38144pt too wide) in paragraph at lines 280--282
+\OT1/cmr/m/n/10 sur-faces. [] 
+ []
+
+<exercise30.png, id=91, 885.3075pt x 728.7225pt>
+File: exercise30.png Graphic file (type png)
+ <use exercise30.png>
+Package pdftex.def Info: exercise30.png used on input line 285.
+(pdftex.def)             Requested size: 265.5943pt x 218.61844pt.
+ [13 <./exercise28.png> <./exercise29.png>]
+<bernstein_approx_3.png, id=98, 600.2425pt x 481.8pt>
+File: bernstein_approx_3.png Graphic file (type png)
+
+<use bernstein_approx_3.png>
+Package pdftex.def Info: bernstein_approx_3.png used on input line 288.
+(pdftex.def)             Requested size: 180.07413pt x 144.5411pt.
+
+<bernstein_approx_10.png, id=99, 603.25375pt x 482.80376pt>
+File: bernstein_approx_10.png Graphic file (type png)
+
+<use bernstein_approx_10.png>
+Package pdftex.def Info: bernstein_approx_10.png used on input line 290.
+(pdftex.def)             Requested size: 180.97751pt x 144.84224pt.
+ [14 <./exercise30.png> <./bernstein_approx_3.png> <./bernstein_approx_10.png>]
+ (./module9exercises.aux) ) 
+Here is how much of TeX's memory you used:
+ 2502 strings out of 492995
+ 34401 string characters out of 6132704
+ 99173 words of memory out of 5000000
+ 6006 multiletter control sequences out of 15000+600000
+ 10283 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 39i,8n,26p,252b,276s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmr12.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr17.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr5.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy10.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy5.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+7.pfb></usr/local/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/symbols/m
+sam10.pfb>
+Output written on module9exercises.pdf (14 pages, 398404 bytes).
+PDF statistics:
+ 145 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,20 @@
+function newSection = align(layers, numLayers, color)
+shift = 5;
+shift_i = 0;
+shift_j = 0;
+for ix=numLayers:-1:1
+    pyramidLayer = layers{ix};
+    B = pyramidLayer{1}
+    G = pyramidLayer{2}
+    R = pyramidLayer{3}
+    if color == 'G'
+        G = circshift(G, [shift_i, shift_j
+        errorMat = B-G;
+        shift_i, shift_j = shiftPixels(B, G, shift);
+    end;
+    if color == 'R'
+        errorMat = B-R;
+        shift_i, shift_j = shiftPixels(B, R, shift);
+    end;
+    
+end;

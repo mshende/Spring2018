@@ -1,0 +1,40 @@
+
+public class ExploreSpan {
+
+    public static void main (String[] argv)
+    {
+	DrawTool.display ();
+	DrawTool.setXYRange (-10,10, -10,10);
+	DrawTool.drawMiddleAxes (true);
+
+	// Two vectors:
+	double[] u = {1, 4};
+	double[] v = {3, 2};
+
+	DrawTool.setArrowColor ("blue");
+	DrawTool.drawVector (u);
+	DrawTool.drawVector (v);
+
+	// Range of alpha to explore:
+	double alphaLow=-1, alphaHigh=5, alphaStep=0.1;
+	// Range of beta:
+	double betaLow=-1, betaHigh=5, betaStep=0.1;
+
+	for (double alpha=alphaLow; alpha<=alphaHigh; alpha+=alphaStep) {
+	    for (double beta=betaLow; beta<=betaHigh; beta+=betaStep) {
+		double[] w = linComb (alpha, u, beta, v);
+		DrawTool.drawLine (0,0, w[0], w[1]);
+	    } 
+	}
+    }
+
+    static double[] linComb (double alpha, double[] u, double beta, double[] v)
+    {
+	double[] result = new double[u.length];
+	for (int i=0; i<u.length; i++) {
+	    result[i] = alpha*u[i] + beta*v[i];
+	}
+	return result;
+    }
+
+}

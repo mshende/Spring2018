@@ -1,0 +1,34 @@
+\documentclass{article}
+\newcommand*{\qed}{\hfill\ensuremath{\blacksquare}}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\graphicspath{{.}}
+
+\title{Computational Linear Algebra, Assignment 2, Part I}
+\author{Maya Shende}
+\date{Due: March 7th, 2018}
+
+\begin{document}
+\maketitle
+
+\begin{enumerate}
+	\item We know that $A^{-1}A = I$. Now, suppose there is another matrix $J$ such that $AJ = A = JA$. So, 
+	\begin{eqnarray*}
+		AJ &=& A\\
+		\therefore A^{-1}AJ &=& A^{-1}A\\
+		\therefore IJ &=& I\\
+		\therefore J &=& I
+	\end{eqnarray*} $\qed$
+	
+	\item We know that $A^{-1}A = I$. So, 
+	\begin{eqnarray*}
+		(A^{-1}A) &=& I\\
+		\therefore A(A^{-1}A) &=& AI\\
+		\therefore (AA^{-1})A &=& A = AI\\
+		\therefore AA^{-1} &=& I
+	\end{eqnarray*}
+	because we know from above that $IA = A = AI$, and we know from above that I is unique. \qed
+\end{enumerate}
+
+\end{document}
